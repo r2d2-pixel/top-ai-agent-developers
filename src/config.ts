@@ -4,27 +4,27 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 export const SITE = {
-  name:          'TODO: Site Name',
-  domain:        'TODO: yourdomain.com',
-  url:           'https://TODO.yourdomain.com',
-  tagline:       'TODO: Independent reviews of [Niche]',
-  description:   'TODO: Site meta description for search engines.',
+  name:          'Top AI Agent Developers',
+  domain:        'top-ai-agent-developers.com',
+  url:           'https://top-ai-agent-developers.com',
+  tagline:       'The top-ranked AI agent developers, independently reviewed for engineering depth',
+  description:   'Compare the top AI agent developers by tech stack, framework depth, and production track record. Independent, engineering-focused reviews for technical buyers.',
   locale:        'en_US',
-  twitterHandle: '',        // e.g. '@yourhandle' — leave empty to omit OG tag
-  lastReviewed:  'TODO: Month Year',
+  twitterHandle: '',
+  lastReviewed:  'August 2026',
 };
 
 export const NICHE = {
-  label:          'TODO: Niche Label',    // e.g. "AI Agent Development" — used in headings and meta
-  providerLabel:  'company',              // singular: "company" or "agency" or "tool"
-  providersLabel: 'companies',            // plural
-  verticalSlug:   'TODO-niche-slug',      // used in URL slugs, e.g. "ai-agent-development"
+  label:          'AI Agent',
+  providerLabel:  'developer',
+  providersLabel: 'developers',
+  verticalSlug:   'ai-agent-development',
 };
 
 export const BRANDING = {
-  primaryColor: '#1e40af',  // tailwind brand-600; update tailwind.config.mjs too
-  logoText:     'TODO: Site Name',
-  logoPath:     '/logos/site-logo.svg',   // place file in public/logos/
+  primaryColor: '#059669',  // tailwind brand-600 (Emerald); update tailwind.config.mjs too
+  logoText:     'Top AI Agent Developers',
+  logoPath:     '/logos/site-logo.svg',
 };
 
 // ─── MONETIZATION ──────────────────────────────────────────────────────────
@@ -40,4 +40,5 @@ export const MONETIZATION = {
 export const NAV = [
   { label: 'Home',        href: '/' },
   { label: 'Disclosure',  href: '/affiliate-disclosure/' },
+  { label: 'Contact',     href: '/contact/' },
 ];
