@@ -11,7 +11,6 @@ export const SITE = {
   description:   'Compare the top AI agent developers by tech stack, framework depth, and production track record. Independent, engineering-focused reviews for technical buyers.',
   locale:        'en_US',
   twitterHandle: '',
-  lastReviewed:  'August 2026',
 };
 
 export const NICHE = {
