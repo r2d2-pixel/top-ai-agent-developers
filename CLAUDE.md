@@ -223,7 +223,7 @@ overall company quality.
 ```
 Turing: founded 2018, HQ Palo Alto CA USA, 1000+ employees, $2.2B valuation
 Spiral Scout: founded 2010, HQ San Francisco USA, 51-200 employees, certified Temporal Solution Provider
-Tensorway: founded 2021, HQ Remote (EU-based), 11-50 employees
+Tensorway: founded 2019, HQ Alicante, Spain, 50-249 employees
 Vstorm: founded 2017, HQ Wrocław Poland, 11-50 employees
 Grid Dynamics: founded 2006, HQ San Ramon CA USA, 1000+ employees, public company Nasdaq:GDYN
 SoftServe: founded 1993, HQ Austin TX USA, 1000+ employees (12,000+ globally)

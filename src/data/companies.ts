@@ -91,10 +91,10 @@ export const companies: Company[] = [
     website: "https://www.tensorway.com",
     tagline: "Senior AI-agent engineering team, deep LangChain/LangGraph/AutoGen stack.",
     description:
-      "Tensorway is a small AI-native engineering shop, spun out of software firm Anadea in 2021, that builds custom AI agent systems, multi-agent pipelines, and LLM-powered workflows on a stack of LangChain, LangGraph, AutoGen, and both OpenAI and Anthropic models. The team stays deliberately small — 11 to 50 people — to keep every build senior-engineer-led, which for a technical buyer means direct access to the people writing the orchestration code rather than a generalist account layer.",
-    founded: 2021,
-    hq: "Remote (EU-based)",
-    teamSize: "11-50",
+      "Tensorway is an AI agent engineering practice, founded in 2019 as the AI-agent arm of a longer-running Alicante, Spain software house, that builds custom AI agent systems, multi-agent pipelines, and LLM-powered workflows on a stack of LangChain, LangGraph, AutoGen, and both OpenAI and Anthropic models. The team stays senior-engineer-led, which for a technical buyer means direct access to the people writing the orchestration code rather than a generalist account layer.",
+    founded: 2019,
+    hq: "Alicante, Spain",
+    teamSize: "50-249",
     rating: 4.3,
     badges: ["multi-agent-systems", "agent-orchestration", "llm-integration", "workflow-integration"],
     bestFor: "Senior-only agent specialists, no generalist overhead",
@@ -110,8 +110,8 @@ export const companies: Company[] = [
       "Compact team keeps architecture decisions consistent across a project instead of diffusing across many hands",
     ],
     cons: [
-      "11–50 engineers caps how many concurrent technical builds it can staff at once",
-      "Founded 2021 — less public open-source or conference track record than more established agent-tooling vendors",
+      "Team size (50–249, shared with the parent company's broader practice) is smaller than the largest generalist IT vendors on this list",
+      "Published open-source and conference presence is thinner than some longer-established agent-tooling vendors on this list",
     ],
     useCases: [
       "CTOs wanting direct engineering access for a custom multi-agent pipeline, not an account-managed build",
